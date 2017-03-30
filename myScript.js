@@ -1,0 +1,3 @@
+function pomodoro{
+	var now
+}
